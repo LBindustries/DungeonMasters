@@ -1,3 +1,3 @@
 DungeonMasters
 ==============
-Un RPG di @LBindustries programmato con RPGVX!
+Un RPG di LBindustries programmato con RPGVX!
